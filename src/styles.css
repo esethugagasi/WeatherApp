@@ -1,3 +1,16 @@
 body {
   background-color: #e3fef7;
+  font-family: "Roboto Mono", monospace;
+  /* font-family: "Rubik Moonrocks", sans-serif; */
+  /* font-weight: 400;
+  font-style: normal; */
+}
+
+.weather-app {
+  background: #77b0aa;
+  max-width: 600px;
+  margin: 45px auto;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 16px;
+  padding: 30px;
 }
