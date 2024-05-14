@@ -94,22 +94,24 @@ main {
   margin-top: 30px;
 }
 .weather-forecast-date {
-  margin-bottom: 15px;
+  margin-bottom: 12px;
   text-align: center;
   color: rgba(39, 33, 66, 0.4);
-  font-size: 16px;
+  font-size: 13px;
   line-height: 20px;
 }
 .weather-forecast-icon {
-  font-size: 35px;
-  text-align: center;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  margin: 0 auto;
 }
 .weather-forecast-temperatures {
   display: flex;
   justify-content: center;
   text-align: center;
   color: #092635;
-  margin-top: 15px;
+  margin-top: 12px;
 }
 .weather-forecast-temperature {
   padding: 0 10px;
